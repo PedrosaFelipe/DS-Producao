@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://gitlab.com/nps-portfolio/nps-rossmann-store-sales/-/blob/main/model/model_rossmann.pkl
+HostUrl=https://gitlab.com/nps-portfolio/nps-rossmann-store-sales/-/raw/main/model/model_rossmann.pkl
