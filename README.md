@@ -29,6 +29,15 @@ However, it was necessary to assume some things. As you can see down below.
 
 # 3. Solution Strategy
 
+![img02-mod01-vid04-1](https://user-images.githubusercontent.com/55566708/186332188-267ab6c9-b3bb-4956-869b-cd89339d1cc1.png)
+
+
+The project was developed based on the CRISP-DM methodology, that is, in a cyclical way we carry out the progress of each end-to-end stage of the project.
+
+
+![img01-mod01-vid04-1](https://user-images.githubusercontent.com/55566708/186331887-fdbbc526-324b-4a64-b1f7-d0b873d87942.png)
+
+
 My strategy to solve this challenge was:
 
 **Step 01. Data Description:**
