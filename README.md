@@ -1,4 +1,4 @@
-# DS-Producao
+# DS-Produção
 
 ![63b806b1494a7fbd9cb05271667b9c61](https://user-images.githubusercontent.com/55566708/173489469-0c468c00-291f-4bf5-8af2-a8676f0bd3a4.png)
 
@@ -163,45 +163,12 @@ And the table below with 5 worst cases.
 ![graph](https://user-images.githubusercontent.com/55566708/186514964-209511fc-ca54-4ff0-81a6-e91a69ed9003.png)
 
 
-
+## Bot telegram with Results
 
 https://user-images.githubusercontent.com/55566708/186500665-cd689c5b-67f5-44aa-9c6a-2101042b11ef.mp4
 
-**API Rossmann**
 
 
-At this point we have reached the last stage of CRISP, which is to put the model into production.
-
-For this project we have the following architecture:
-
-The data is available in mongodb on the mongo atlas server.
-
-
-We created a step of shoring the data to the model, where the predictions are persisted in the database.
-
-
-The API provides two endpoints
-
-
-
-GET /predictions - Returns all stores
-GET /prediction/{store} - Returns only the store passed by parameter
-
-
-
-**Ex.: /prediction/3**
-
-```
-{
-   "store": 3,
-   "prediction": 272416.41,
-   "formatted_sales": "R$ 272,416.41",
-   "percentage_sales": 0.1135617271065712,
-   "classification": "G2"
-}
-```
-
-A API está disponível no servidor do heroku.
 # 7. Conclusions
 
 We finished the first cycle of CRISP, and this is the deliverable. There is still a world of possibilities to do and to be investigated, but this can be done in the next cycles.
