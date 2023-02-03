@@ -75,7 +75,7 @@ My strategy to solve this challenge was:
 
 My final choice of model was XGBoost.
 
-ML step may be the most interesting setp. There is were the 'magic' happens. Well, I tested four (4) Machine Learning Algoritms: Linear Regression, Lasso Regression, Random Forest Regressor and a XGBoost Regressor. The metrics applied to measure the performance of the algorithms were MAE, MAPE and RMSE.
+ML step may be the most interesting step. There is were the 'magic' happens. Well, I tested four (4) Machine Learning Algoritms: Linear Regression, Lasso Regression, Random Forest Regressor and a XGBoost Regressor. The metrics applied to measure the performance of the algorithms were MAE, MAPE and RMSE.
 
 So, the results from these metrics can be seen in the table below:
 
